@@ -1,0 +1,132 @@
+* {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+body {
+	max-width: 900px;
+	margin: 100px auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: 300;
+	font-style: italic;
+	color: #cf8a05;
+	font-family: Rokkitt;
+}
+
+a {
+	color:#181818;
+	font-family: Lato;
+}
+
+div#headshot, div#contactDetails {
+	margin: 25px;
+}
+
+
+#profile p{
+	margin-top: 20px;
+	font-size: 20px;
+	max-width: 650px;
+}
+
+.mainDetails {
+	border-bottom: 2px solid #cf8a05;
+}
+
+section{
+	border-bottom: 1px solid lightgray;
+}
+
+section:last-of-type {
+	border: 0;
+}
+
+section h2 {
+	font-family: Rokkitt;
+	font-weight: 400;
+	font-size: 30px;
+}
+
+section p {
+	font-size: 20px;
+	margin: -15px 0 15px 0;
+	font-family: Lato;
+	font-weight: normal;
+	color: #444444;
+}
+
+.subDetails {
+	margin-top: -25px;
+	font-size: 15px;
+	font-style: italic;
+	color: #181818;	
+}
+
+.clear {
+	clear: both;
+}
+
+#headshot {
+	width: 12.5%;
+	float: left;
+	margin-right: 30px;
+}
+
+#headshot img {
+	border-radius: 50%;
+}
+
+#name {
+	float: left;
+	margin-left: 30px;
+}
+
+#name h1 {
+	font-size: 45px;
+	font-weight: bold;
+	color: black;
+	margin-bottom: -18px;
+	font-style: normal;
+}
+
+#name h2 {
+	font-size: 40px;
+	font-weight: 200;
+	line-height: 5px;
+	font-family: Rokkitt;
+}
+
+#contactDetails {
+	float: right;
+	line-height: 24px;
+}
+
+.sectionTitle {
+	float: left;
+	width: 25%;
+}
+
+.sectionContent {
+	float: right;
+	width: 72.5%;
+	line-height: 25px;
+	font-family: Lato;
+	font-size: 15px;
+	font-weight: 400;
+	margin-top: 10px;
+}
+
+.keySkills {
+	margin: 10px 0 20px 0;
+	padding: 0;
+}
+
+.positionLi {
+	float: left;
+	width: 33.3%;
+	font-size: 20px;
+}
