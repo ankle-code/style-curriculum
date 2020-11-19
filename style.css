@@ -40,6 +40,7 @@ html,body {
 #name h2 {
 	font-size: 40px;
 	font-weight: 200;
+	margin-left: 3px;
 	line-height: 5px;
 	font-family: 'Rokkitt', Arial, Helvetica, sans-serif;
 }
@@ -92,14 +93,14 @@ section h2 {
 
 section p {
 	font-size: 20px;
-	margin: -5px 0 5px 0;
+	margin: 0px 0 5px 0;
 	font-weight: normal;
 	color: #444444;
 }
 
 .subDetails {
 	margin-top: -25px;
-	font-size: 15px;
+	font-size: 16px;
 	font-style: oblique;
 	color: #444444;	
 }
