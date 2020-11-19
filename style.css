@@ -31,7 +31,7 @@ html,body {
 #name h1 {
 	font-size: 50px;
 	font-weight: bold;
-	color: black;
+	color: #181818;
 	margin-bottom: -18px;
 	font-style: normal;
 	font-family: 'Rokkitt', Arial, Helvetica, sans-serif;
@@ -61,7 +61,7 @@ html,body {
 #contactDetails a {
 	color:#181818;
 	font-size: 18px;
-	color: #444444;
+	color: #dedede;
 }
 
 #headshot, #contactDetails {
